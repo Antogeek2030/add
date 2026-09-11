@@ -1,6 +1,6 @@
 # Cloudflare Pages redirects
 # 404 fallback
-/*    /404.html   404
+/*    /404.html   200
 
 # Optional: trailing-slash redirects for clean URLs
 /index.html    /    301
