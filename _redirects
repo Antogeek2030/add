@@ -1,0 +1,10 @@
+# Cloudflare Pages redirects
+# 404 fallback
+/*    /404.html   404
+
+# Optional: trailing-slash redirects for clean URLs
+/index.html    /    301
+/services.html    /services    301
+/service-areas.html    /service-areas    301
+/blog.html    /blog    301
+/blog-post.html    /blog-post    301

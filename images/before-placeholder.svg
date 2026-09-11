@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#4a5568"/>
+  <rect x="0" y="320" width="800" height="180" fill="#2d3748"/>
+  <!-- Clogged gutter representation -->
+  <rect x="50" y="280" width="700" height="40" fill="#718096" rx="4"/>
+  <rect x="60" y="250" width="30" height="40" fill="#48bb78"/>
+  <rect x="120" y="240" width="40" height="50" fill="#38a169"/>
+  <rect x="200" y="255" width="25" height="35" fill="#48bb78"/>
+  <rect x="280" y="245" width="35" height="45" fill="#2f855a"/>
+  <rect x="360" y="250" width="28" height="40" fill="#48bb78"/>
+  <rect x="450" y="235" width="45" height="55" fill="#38a169"/>
+  <rect x="540" y="250" width="30" height="40" fill="#48bb78"/>
+  <rect x="620" y="245" width="40" height="45" fill="#2f855a"/>
+  <rect x="700" y="255" width="25" height="35" fill="#48bb78"/>
+  <!-- Overflow water -->
+  <path d="M100 320 Q120 360 100 400" stroke="#63b3ed" stroke-width="8" fill="none"/>
+  <path d="M300 320 Q320 370 300 420" stroke="#63b3ed" stroke-width="10" fill="none"/>
+  <path d="M550 320 Q570 355 550 400" stroke="#63b3ed" stroke-width="7" fill="none"/>
+  <text x="400" y="80" text-anchor="middle" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="28" font-weight="600">BEFORE</text>
+  <text x="400" y="120" text-anchor="middle" fill="#a0aec0" font-family="system-ui,sans-serif" font-size="18">Clogged &amp; Overflowing Gutters</text>
+</svg>

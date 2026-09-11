@@ -1,0 +1,8 @@
+# Robots.txt for Woodsbridge Gutter Specialists
+# CUSTOMIZE: Update Sitemap URL once the final domain is live
+
+User-agent: *
+Allow: /
+
+# Sitemap location – replace with your final domain
+Sitemap: https://woodsbridgegutterspecialists.com/sitemap.xml
